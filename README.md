@@ -7,6 +7,7 @@ This command-line script retrieves every assigned GitHub Copilot seat in one org
 1. Obtain classic personal access token: <img width="946" height="669" alt="image" src="https://github.com/user-attachments/assets/5f236481-b5f0-4073-9ee9-888e800d6a19" />
 2. Rename `.env.sample` to `.env` and set token with `GITHUB_TOKEN`
 3. Run python sync_copilot_seats.py
+4. Interact with prompts, asking for confirmation
 
 
 
