@@ -27,7 +27,7 @@ This command-line script retrieves every assigned GitHub Copilot seat in one org
    python -m pip install -r requirements.txt
    ```
 
-3. Copy `.env.example` to `.env` and supply the values:
+3. Copy `.env.sample` to `.env` and supply the values:
 
    ```dotenv
    GITHUB_TOKEN=github_pat_your_token
